@@ -1,0 +1,6 @@
+git init (para iniciar Github)
+git clone (clona el repositorio)
+git status (par ver cambios aplicados en mis archivos)
+git Add. (agrega cualquier archivo modificado o agregado)
+git commit -m "Laboratorio # 1"
+git push (agrega los cambios en el repositorio en linea)
